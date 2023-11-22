@@ -1,3 +1,9 @@
 [submodule "Anomaly-detection-on-sensor-readings"]
 	path = Anomaly-detection-on-sensor-readings
 	url = https://github.com/Forestya/Anomaly-detection-on-sensor-readings.git
+[submodule "Frequent-itemset-mining"]
+	path = Frequent-itemset-mining
+	url = https://github.com/Forestya/Frequent-itemset-mining.git
+[submodule "E-commerce-transaction-similarity-analysis"]
+	path = E-commerce-transaction-similarity-analysis
+	url = https://github.com/Forestya/E-commerce-transaction-similarity-analysis.git
