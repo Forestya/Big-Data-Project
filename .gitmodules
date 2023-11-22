@@ -1,0 +1,3 @@
+[submodule "Anomaly-detection-on-sensor-readings"]
+	path = Anomaly-detection-on-sensor-readings
+	url = https://github.com/Forestya/Anomaly-detection-on-sensor-readings.git
