@@ -7,3 +7,6 @@
 [submodule "E-commerce-transaction-similarity-analysis"]
 	path = E-commerce-transaction-similarity-analysis
 	url = https://github.com/Forestya/E-commerce-transaction-similarity-analysis.git
+[submodule "Adding-a-PersonName-Data-Type-to-PostgreSQL"]
+	path = Adding-a-PersonName-Data-Type-to-PostgreSQL
+	url = https://github.com/Forestya/Adding-a-PersonName-Data-Type-to-PostgreSQL.git
